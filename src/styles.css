@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-800 bg-gradient-to-b from-gray-800 to-gray-900 bg-cover bg-center text-zinc-50 overflow-hidden;
+}

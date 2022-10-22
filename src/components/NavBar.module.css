@@ -1,0 +1,3 @@
+.button:global(.active) {
+  @apply bg-amber-900;
+}
